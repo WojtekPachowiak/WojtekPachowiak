@@ -1,17 +1,15 @@
-![cherry_island_ducks](https://user-images.githubusercontent.com/50328147/212742479-0e55ea02-93ec-4430-875d-6e66a9d0a212.jpg)
-### Hi there 👋
+![cherry_island_ducks3](https://user-images.githubusercontent.com/50328147/212745235-78e6702b-a525-49d2-be15-4b283ade0996.jpg)
 
-<!--
-**WojtekPachowiak/WojtekPachowiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:small_orange_diamond: Aspiring _technical artist_/_rendering engineer_/_graphics programmer_/_shader programmer_. :art: :tv: \
+:small_orange_diamond: _Python_ user :snake: \
+:small_orange_diamond: _Blender_ lover :movie_camera: \
+:small_orange_diamond: _Math_ lover :triangular_ruler: \
+:small_orange_diamond: wants to _C++_ :rage3::shit:, but too comfortable with _Python_ :snake: \
+:small_orange_diamond: _audio programming_/_DSP_ rookie :microphone: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current projects:
+- [loop-extraktor](https://github.com/WojtekPachowiak/loop-extraktor) (extracting sample for experimental noise music - load audio, loop short segments, apply audio effects, save segment)
+- [voice-tratatata](https://github.com/WojtekPachowiak/voice-tratatata) (artificial voice generation like in Undertale, Animal Crossing and Banjo-Kazooie)
+- [micrefektuh](https://github.com/WojtekPachowiak/micrefektuh) (applying audio effects on microphone input and outputing to speakers)
+- [The Book of Shaders - Polish translation](https://github.com/WojtekPachowiak/thebookofshaders) (translating a cool book about shaders)
+- [vide-n-capt](https://github.com/WojtekPachowiak/vide-n-capt) (quick to open, quick to record a-few-second video)
