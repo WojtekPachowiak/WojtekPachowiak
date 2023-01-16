@@ -15,3 +15,4 @@
 - [vide-n-capt](https://github.com/WojtekPachowiak/vide-n-capt) (quick to open, quick to record a few-seconds video)
 - [steering-behaviors](https://github.com/WojtekPachowiak/steering-behaviors) (implementation and visualization of [Steering Behaviors For Autonomous Characters](https://www.red3d.com/cwr/steer/gdc99/) paper) 
 - [playstation1-dither](https://github.com/WojtekPachowiak/playstation1-dither) (GLSL and Python port of PlayStation 1's dithering algorithm)
+- [blender-texanim](https://github.com/WojtekPachowiak/blender-texanim) (Blender addon for swapping textures during animation)
