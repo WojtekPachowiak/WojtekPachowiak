@@ -1,3 +1,4 @@
+![cherry_island_ducks](https://user-images.githubusercontent.com/50328147/212742479-0e55ea02-93ec-4430-875d-6e66a9d0a212.jpg)
 ### Hi there 👋
 
 <!--
