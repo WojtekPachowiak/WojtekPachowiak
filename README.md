@@ -7,9 +7,11 @@
 :small_orange_diamond: wants to _C++_ :rage3::shit:, but too comfortable with _Python_ :snake: \
 :small_orange_diamond: _audio programming_/_DSP_ rookie :microphone: 
 
-Current projects:
-- [loop-extraktor](https://github.com/WojtekPachowiak/loop-extraktor) (extracting sample for experimental noise music - load audio, loop short segments, apply audio effects, save segment)
+### In progress projects:
+- [loop-extraktor](https://github.com/WojtekPachowiak/loop-extraktor) (extracting samples for experimental noise music - load audio, loop short segments, apply audio effects, save segment)
 - [voice-tratatata](https://github.com/WojtekPachowiak/voice-tratatata) (artificial voice generation like in Undertale, Animal Crossing and Banjo-Kazooie)
 - [micrefektuh](https://github.com/WojtekPachowiak/micrefektuh) (applying audio effects on microphone input and outputing to speakers)
 - [The Book of Shaders - Polish translation](https://github.com/WojtekPachowiak/thebookofshaders) (translating a cool book about shaders)
-- [vide-n-capt](https://github.com/WojtekPachowiak/vide-n-capt) (quick to open, quick to record a-few-second video)
+- [vide-n-capt](https://github.com/WojtekPachowiak/vide-n-capt) (quick to open, quick to record a few-seconds video)
+- [steering-behaviors](https://github.com/WojtekPachowiak/steering-behaviors) (implementation and visualization of [Steering Behaviors For Autonomous Characters](https://www.red3d.com/cwr/steer/gdc99/) paper) 
+- [playstation1-dither](https://github.com/WojtekPachowiak/playstation1-dither) (GLSL and Python port of PlayStation 1's dithering algorithm)
