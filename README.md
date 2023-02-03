@@ -10,9 +10,10 @@
 
 ### Finished projects:
 - [playstation1-dither](https://github.com/WojtekPachowiak/playstation1-dither) (GLSL and Python port of PlayStation 1's dithering algorithm)
+- [loop-extraktor](https://github.com/WojtekPachowiak/loop-extraktor) (extracting samples for experimental noise music - load audio, loop short segments, save segment)
 
 ### In progress projects:
-- [loop-extraktor](https://github.com/WojtekPachowiak/loop-extraktor) (extracting samples for experimental noise music - load audio, loop short segments, apply audio effects, save segment)
+
 - [voice-tratatata](https://github.com/WojtekPachowiak/voice-tratatata) (artificial voice generation like in Undertale, Animal Crossing and Banjo-Kazooie)
 - [micrefektuh](https://github.com/WojtekPachowiak/micrefektuh) (applying audio effects on microphone input and outputing to speakers)
 - [The Book of Shaders - Polish translation](https://github.com/WojtekPachowiak/thebookofshaders) (translating a cool book about shaders)
