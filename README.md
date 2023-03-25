@@ -1,6 +1,9 @@
-![cherry_islandss](https://user-images.githubusercontent.com/50328147/227725132-58b1c970-49eb-45f3-9d14-410bb29a6427.jpg)
+<!-- ![cherry_islandss](https://user-images.githubusercontent.com/50328147/227725132-58b1c970-49eb-45f3-9d14-410bb29a6427.jpg) -->
 <!-- ![cherry_island_ducks3](https://user-images.githubusercontent.com/50328147/212745235-78e6702b-a525-49d2-be15-4b283ade0996.jpg) -->
-<!-- ![gravyard_pasel22](https://user-images.githubusercontent.com/50328147/227725258-c12caf8d-453a-4c3a-b229-9132cccf1fce.png) -->
+<!-- ![gravyard![grav](https://user-images.githubusercontent.com/50328147/227726380-6e17b444-7488-4127-8312-7bc904d7961a.jpg)
+_pasel22](https://user-images.githubusercontent.com/50328147/227725258-c12caf8d-453a-4c3a-b229-9132cccf1fce.png) -->
+![grav](https://user-images.githubusercontent.com/50328147/227726436-5366e603-40c1-43fa-94e6-2129ece100b9.jpg)
+
 
 ### Finished projects:
 - [playstation1-dither](https://github.com/WojtekPachowiak/playstation1-dither) (GLSL and Python port of PlayStation 1's dithering algorithm)
