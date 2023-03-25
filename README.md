@@ -5,13 +5,13 @@ _pasel22](https://user-images.githubusercontent.com/50328147/227725258-c12caf8d-
 ![grav](https://user-images.githubusercontent.com/50328147/227726436-5366e603-40c1-43fa-94e6-2129ece100b9.jpg)
 
 
-### Finished projects:
+### :eggplant: Finished projects:
 - [playstation1-dither](https://github.com/WojtekPachowiak/playstation1-dither) (GLSL and Python port of PlayStation 1's dithering algorithm)
 - [loop-extraktor](https://github.com/WojtekPachowiak/loop-extraktor) (extracting samples for experimental noise music - load audio, loop short segments, save segment)
 - [voice-tratatata](https://github.com/WojtekPachowiak/voice-tratatata) (artificial voice generation like in Undertale, Animal Crossing and Banjo-Kazooie)
 - [The Book of Shaders - Polish translation](https://github.com/WojtekPachowiak/thebookofshaders) (translating a cool book about shaders)
 
-### In progress projects:
+### :peach: In progress projects:
 
 - [micrefektuh](https://github.com/WojtekPachowiak/micrefektuh) (applying audio effects on microphone input and outputing to speakers)
 - [vide-n-capt](https://github.com/WojtekPachowiak/vide-n-capt) (quick to open, quick to record a few-seconds video)
