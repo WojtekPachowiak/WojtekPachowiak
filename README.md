@@ -3,7 +3,7 @@
 <!-- ![gravyard![grav](https://user-images.githubusercontent.com/50328147/227726380-6e17b444-7488-4127-8312-7bc904d7961a.jpg)
 _pasel22](https://user-images.githubusercontent.com/50328147/227725258-c12caf8d-453a-4c3a-b229-9132cccf1fce.png) -->
 <!-- ![grav](https://user-images.githubusercontent.com/50328147/227726436-5366e603-40c1-43fa-94e6-2129ece100b9.jpg) -->
-![gravyard_paswwel](https://user-images.githubusercontent.com/50328147/227726767-9c263cc7-9c03-480f-8e0f-92d3e03eb506.jpg)
+<!-- ![gravyard_paswwel](https://user-images.githubusercontent.com/50328147/227726767-9c263cc7-9c03-480f-8e0f-92d3e03eb506.jpg) -->
 
 
 ### :rainbow: Finished projects:
